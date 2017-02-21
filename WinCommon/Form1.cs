@@ -17,7 +17,7 @@ namespace WinCommon
 
 
             ///////////////mmmmmmmmm
-            ////来自gdm的修改
+            ////来自gdm的修改额
 
             InitializeComponent();
 

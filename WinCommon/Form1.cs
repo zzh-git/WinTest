@@ -19,6 +19,9 @@ namespace WinCommon
             InitializeComponent();
 
 
+
+
+            //GDM
         }
 
         /////yiuuihiuiuy

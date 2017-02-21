@@ -14,6 +14,8 @@ namespace WinTest
     {
         public Form1()
         {
+
+
             InitializeComponent();
         }
     }

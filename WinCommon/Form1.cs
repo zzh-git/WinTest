@@ -16,11 +16,11 @@ namespace WinCommon
         {
 
 
+            ///////////////mmmmmmmmm
+
 
 
             //////
-
-            ///////////////mmmmmmmmm
 
             InitializeComponent();
 

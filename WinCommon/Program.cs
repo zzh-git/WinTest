@@ -18,5 +18,8 @@ namespace WinCommon
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+        /////2017年2月21日10:34:41
+
     }
 }

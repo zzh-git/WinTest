@@ -17,6 +17,8 @@ namespace WinCommon
 
 
             InitializeComponent();
+
+
         }
     }
 }

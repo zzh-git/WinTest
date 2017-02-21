@@ -14,6 +14,8 @@ namespace WinCommon
     {
         public Form1()
         {
+
+
             InitializeComponent();
         }
     }
